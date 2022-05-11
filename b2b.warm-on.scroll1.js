@@ -1,3 +1,4 @@
+//require("selenium-webdriver") это сторонняя библиотека
 const { By, Key, Builder } = require("selenium-webdriver");
 require("chromedriver");
 const { until } = require("selenium-webdriver");
